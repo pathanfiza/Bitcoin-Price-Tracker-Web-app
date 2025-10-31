@@ -16,7 +16,9 @@ Bitcoin Price Tracker Web-app using React, Ionic, Node.js and MySQL
 
 📱 **Here is the demo of my app** 👇
 
-https://github.com/user-attachments/assets/a62ec969-6901-440f-8772-61997bc3b636
+https://github.com/user-attachments/assets/41353e5b-2b7f-4d0c-981b-d2f544cbcfae
+
+
 
 
 
